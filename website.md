@@ -2,4 +2,4 @@ Analyse suspicious files, domains, IPs and URLs to detect malware and other brea
 
 https://www.virustotal.com/gui/home/upload
 
-![virustotal site](https://github.com/Andreas512514/site-for-Insident-responder/blob/main/Screenshot%202025-10-25%20000343.png)
+![virustotal website](https://github.com/Andreas512514/site-for-Insident-responder/blob/main/Screenshot%202025-10-25%20000343.png)
